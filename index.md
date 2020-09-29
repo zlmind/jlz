@@ -1,11 +1,7 @@
 ## 欢迎光临,上海劲匠网络科技
 
-You can use the [editor on GitHub](https://github.com/zlmind/jlz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
+从事网络技术、计算机技术、电子技术领域内的技术开发、技术转让、技术咨询、技术服务，商务咨询，会务服务，展览展示服务，建筑装修装饰建设工程专业施工，设计、制作各类广告，利用自有媒体发布广告，水电安装，家用电器的安装及维修，电子商务（不得从事增值电信、金融业务），计算机、软件及辅助设备、装饰装修材料、电子产品、机电设备、办公用品、家用电器、家具、灯具、工艺品、日用百货、五金交电的销售。
 
 ### 备案号：
 
-1111
+沪ICP备2020029013号-1
