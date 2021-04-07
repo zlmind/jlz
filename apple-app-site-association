@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "H6KFN8632G.com.qfx.yql.distribution",
+            "paths": ["/app/*"]
+            }
+        ]
+    }
+}
